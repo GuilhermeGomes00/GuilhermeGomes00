@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#a56eff;">👋 Olá, olá! Me chamo Guilherme Gomes, muito prazer!</h1>
+<h1 align="center" style="color:#a56eff;">👋 Olá! Me chamo Guilherme Gomes, muito prazer!</h1>
 
 ---
 

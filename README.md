@@ -7,7 +7,7 @@
 
 Sou um desenvolvedor apaixonado por tecnologia e programação, sempre buscando aprender mais e evoluir como profissional.
 
-Atualmente, foco meus estudos e projetos em **C#, Go, Python, JavaScript e TypeScript**, explorando o desenvolvimento **back-end e front-end**, com tecnologias como **.NET e React**. 🚀
+Atualmente, foco meus estudos e projetos em **C#, Go, Python, JavaScript e TypeScript**, explorando o desenvolvimento **back-end e front-end**, utilizando tecnologias como **.NET e React**. 🚀
 
 ---
 
@@ -15,9 +15,9 @@ Atualmente, foco meus estudos e projetos em **C#, Go, Python, JavaScript e TypeS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeGomes00&show_icons=true&theme=tokyonight&title_color=a56eff&icon_color=a56eff&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeGomes00&show_icons=true&theme=tokyonight&title_color=a56eff&icon_color=a56eff&hide_border=true&v=2" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGomes00&layout=compact&theme=tokyonight&title_color=a56eff&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGomes00&layout=compact&theme=tokyonight&title_color=a56eff&hide_border=true&v=2" />
 
 </div>
 
